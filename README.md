@@ -2,7 +2,7 @@
 # ytbulk
 
 A simple Bash script to bulk download YouTube music and videos into organized  
-directories, using `yt-dlp` and`ffmpeg`.
+directories, using `yt-dlp` and`ffmpeg`. -- i took my fish function and told chatgpt to make it bash. sue me.
 
 ## Dependencies
 
