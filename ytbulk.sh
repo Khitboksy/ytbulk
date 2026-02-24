@@ -6,8 +6,8 @@ set -euo pipefail
 # CONFIG
 ########################################
 
-BASE_MUSIC="/mnt/nix-data/media/music"
-BASE_VIDEO="/mnt/nix-data/media/video"
+BASE_MUSIC="$HOME/media/music"
+BASE_VIDEO="$HOME/media/video"
 
 ########################################
 # REQUIREMENTS CHECK
